@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/vanita-portfolio/static/css/main.45c59550.css",
-    "main.js": "/vanita-portfolio/static/js/main.8f8169d1.js",
+    "main.js": "/vanita-portfolio/static/js/main.d0095d2a.js",
     "static/js/453.1407b060.chunk.js": "/vanita-portfolio/static/js/453.1407b060.chunk.js",
     "static/media/resort.png": "/vanita-portfolio/static/media/resort.496bf022a2bd06b29db3.png",
     "static/media/Ebooh.png": "/vanita-portfolio/static/media/Ebooh.8d49d2a6340dbfc7d8cb.png",
     "static/media/e-Tickes.png": "/vanita-portfolio/static/media/e-Tickes.1e600e91df187e194a5a.png",
+    "static/media/react-eco.png": "/vanita-portfolio/static/media/react-eco.76021e21a3f495d583f8.png",
     "static/media/vanitaperumandla1.pdf": "/vanita-portfolio/static/media/vanitaperumandla1.bda413f6a8ba987488f6.pdf",
     "static/media/va5.png": "/vanita-portfolio/static/media/va5.2e08b2750d145aaf4919.png",
     "static/media/python.png": "/vanita-portfolio/static/media/python.e44d358807aba50da667.png",
@@ -15,11 +16,11 @@
     "static/media/andoid.png": "/vanita-portfolio/static/media/andoid.805228e59177a074996b.png",
     "index.html": "/vanita-portfolio/index.html",
     "main.45c59550.css.map": "/vanita-portfolio/static/css/main.45c59550.css.map",
-    "main.8f8169d1.js.map": "/vanita-portfolio/static/js/main.8f8169d1.js.map",
+    "main.d0095d2a.js.map": "/vanita-portfolio/static/js/main.d0095d2a.js.map",
     "453.1407b060.chunk.js.map": "/vanita-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45c59550.css",
-    "static/js/main.8f8169d1.js"
+    "static/js/main.d0095d2a.js"
   ]
 }
