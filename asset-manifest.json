@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vanita-portfolio/static/css/main.45c59550.css",
-    "main.js": "/vanita-portfolio/static/js/main.a188b76b.js",
+    "main.js": "/vanita-portfolio/static/js/main.a4704c29.js",
     "static/js/453.1407b060.chunk.js": "/vanita-portfolio/static/js/453.1407b060.chunk.js",
     "static/media/resort.png": "/vanita-portfolio/static/media/resort.496bf022a2bd06b29db3.png",
     "static/media/Ebooh.png": "/vanita-portfolio/static/media/Ebooh.8d49d2a6340dbfc7d8cb.png",
@@ -14,14 +14,17 @@
     "static/media/sql.png": "/vanita-portfolio/static/media/sql.52256162ed09ab912c1b.png",
     "static/media/aboutImage.png": "/vanita-portfolio/static/media/aboutImage.99c678ba43ec61a6d1d8.png",
     "static/media/andoid.png": "/vanita-portfolio/static/media/andoid.805228e59177a074996b.png",
+    "static/media/Autofill.png": "/vanita-portfolio/static/media/Autofill.76b48a6277402c3190bd.png",
+    "static/media/design system.png": "/vanita-portfolio/static/media/design system.ef8284814f083c2faf4e.png",
     "static/media/design.png": "/vanita-portfolio/static/media/design.d440dc99eb6e3855f481.png",
+    "static/media/componenetz.png": "/vanita-portfolio/static/media/componenetz.dea490a8e33411d3eb6e.png",
     "index.html": "/vanita-portfolio/index.html",
     "main.45c59550.css.map": "/vanita-portfolio/static/css/main.45c59550.css.map",
-    "main.a188b76b.js.map": "/vanita-portfolio/static/js/main.a188b76b.js.map",
+    "main.a4704c29.js.map": "/vanita-portfolio/static/js/main.a4704c29.js.map",
     "453.1407b060.chunk.js.map": "/vanita-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45c59550.css",
-    "static/js/main.a188b76b.js"
+    "static/js/main.a4704c29.js"
   ]
 }
