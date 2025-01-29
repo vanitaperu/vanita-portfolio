@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/vanita-portfolio/static/css/main.45c59550.css",
-    "main.js": "/vanita-portfolio/static/js/main.ee6f2831.js",
+    "main.js": "/vanita-portfolio/static/js/main.5770c76f.js",
     "static/js/453.1407b060.chunk.js": "/vanita-portfolio/static/js/453.1407b060.chunk.js",
     "static/media/resort.png": "/vanita-portfolio/static/media/resort.496bf022a2bd06b29db3.png",
     "static/media/Ebooh.png": "/vanita-portfolio/static/media/Ebooh.8d49d2a6340dbfc7d8cb.png",
     "static/media/e-Tickes.png": "/vanita-portfolio/static/media/e-Tickes.1e600e91df187e194a5a.png",
     "static/media/react-eco.png": "/vanita-portfolio/static/media/react-eco.76021e21a3f495d583f8.png",
     "static/media/va5.png": "/vanita-portfolio/static/media/va5.2e08b2750d145aaf4919.png",
-    "static/media/vanita_perumandla_software_developer.pdf": "/vanita-portfolio/static/media/vanita_perumandla_software_developer.aaa2bfe99169af235f13.pdf",
     "static/media/python.png": "/vanita-portfolio/static/media/python.e44d358807aba50da667.png",
     "static/media/heroImage.png": "/vanita-portfolio/static/media/heroImage.8c7bc5fa279d4678be56.png",
     "static/media/sql.png": "/vanita-portfolio/static/media/sql.52256162ed09ab912c1b.png",
     "static/media/aboutImage.png": "/vanita-portfolio/static/media/aboutImage.99c678ba43ec61a6d1d8.png",
     "static/media/andoid.png": "/vanita-portfolio/static/media/andoid.805228e59177a074996b.png",
+    "static/media/vanita_perumandla_reactjs.docx": "/vanita-portfolio/static/media/vanita_perumandla_reactjs.dab769366714e2e4d912.docx",
     "static/media/Autofill.png": "/vanita-portfolio/static/media/Autofill.76b48a6277402c3190bd.png",
     "static/media/design system.png": "/vanita-portfolio/static/media/design system.ef8284814f083c2faf4e.png",
     "static/media/design.png": "/vanita-portfolio/static/media/design.d440dc99eb6e3855f481.png",
     "static/media/componenetz.png": "/vanita-portfolio/static/media/componenetz.dea490a8e33411d3eb6e.png",
     "index.html": "/vanita-portfolio/index.html",
     "main.45c59550.css.map": "/vanita-portfolio/static/css/main.45c59550.css.map",
-    "main.ee6f2831.js.map": "/vanita-portfolio/static/js/main.ee6f2831.js.map",
+    "main.5770c76f.js.map": "/vanita-portfolio/static/js/main.5770c76f.js.map",
     "453.1407b060.chunk.js.map": "/vanita-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45c59550.css",
-    "static/js/main.ee6f2831.js"
+    "static/js/main.5770c76f.js"
   ]
 }
